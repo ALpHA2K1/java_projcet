@@ -1,1 +1,1 @@
-# java_projcet using springboot
+# java_project using springboot
